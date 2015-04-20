@@ -1,6 +1,6 @@
 import java.util.List;
 import java.util.Scanner;
-import java.util.ArrayList; // all this makes it so I can use all the features that I need
+import java.util.ArrayList; 
 
 public class Main { 
 
